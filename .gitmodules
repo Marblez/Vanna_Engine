@@ -1,0 +1,12 @@
+[submodule "Vanna_Hyperlane"]
+	path = Vanna_Hyperlane
+	url = https://github.com/Marblez/Vanna_Hyperlane
+[submodule "hyperlane-monorepo"]
+	path = hyperlane-monorepo
+	url = https://github.com/Marblez/hyperlane-monorepo
+[submodule "vanna-risk-engine"]
+	path = vanna-risk-engine
+	url = https://github.com/jeff0723/vanna-risk-engine
+[submodule "VannaModel"]
+	path = VannaModel
+	url = https://github.com/leecchh/VannaModel.git
